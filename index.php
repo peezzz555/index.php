@@ -8,7 +8,7 @@
         <p>Rapeepat Omark</p>
         <p>My First Paragraph</p>
         <img src="cat.jpg">
-        <img src="dog.jpg">
+        <img src="cat2.jpg">
         <br>
         <a href="http://www.it.kmitl.ac.th">This is a Link</a>
 
