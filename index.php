@@ -5,8 +5,10 @@
     <body>
 
         <h1>My First Heading</h1>
+        <p>Rapeepat Omark</p>
         <p>My First Paragraph</p>
         <img src="cat.jpg">
+        <img src="dog.jpg">
         <br>
         <a href="http://www.it.kmitl.ac.th">This is a Link</a>
 
