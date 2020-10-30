@@ -9,6 +9,8 @@
         <p>My First Paragraph</p>
         <img src="cat.jpg">
         <img src="cat2.jpg">
+        <p>แม่: สมชาย… ลูกคิดว่าแม่เป็นแม่ที่เลวร้ายรึเปล่า
+           ลูก: แม่ครับ.. ผมชื่อสมศักดิ์</p>
         <br>
         <a href="http://www.it.kmitl.ac.th">This is a Link</a>
 
